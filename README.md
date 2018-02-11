@@ -1,18 +1,23 @@
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
 
 Frames
 ======
 
+![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![JitPack](https://jitpack.io/v/jahirfiquitiva/Frames.svg)](https://jitpack.io/#jahirfiquitiva/Frames)
 [![Build Status](https://travis-ci.org/jahirfiquitiva/Frames.svg?branch=master)](https://travis-ci.org/jahirfiquitiva/Frames)
-[![codebeat badge](https://codebeat.co/badges/eee96484-e205-455d-b5c2-6e4cda77b5f3)](https://codebeat.co/projects/github-com-jahirfiquitiva-frames-master)
-
-[![Waffle.io - To Do](https://badge.waffle.io/jahirfiquitiva/Frames.svg?label=to%20do&title=To%20Do:)](http://waffle.io/jahirfiquitiva/Frames)
-[![Waffle.io - Issues in progress](https://badge.waffle.io/jahirfiquitiva/Frames.svg?label=in%20progress&title=In%20Progress:)](http://waffle.io/jahirfiquitiva/Frames)
-![API](https://img.shields.io/badge/API-16%2B-7ac143.svg)
-[![Sample App](https://img.shields.io/badge/SAMPLE-APP-34bf49.svg)](https://github.com/jahirfiquitiva/Frames/raw/images/frames-sample.apk)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9747a594949f49b9a8146909868adfba)](https://www.codacy.com/app/jahirfiquitiva/Frames?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jahirfiquitiva/Frames&amp;utm_campaign=Badge_Grade)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/Frames/localized.svg)](http://j.mp/FramesTranslations)
 
 A full-of-features, easy-to-customize, free and open source, light-weight, Android dashboard library to create wallpapers apps with almost-null effort.
+
+<a target="_blank" href="http://j.mp/FramesAPK">
+<img src="http://jahirfiquitiva.me/share/download_sample.svg?maxAge=432000" width="200"/>
+</a>
+
+<a target="_blank" href="http://www.jahirfiquitiva.me/support/">
+<img src="http://jahirfiquitiva.me/share/support_my_work.svg?maxAge=432000" width="200"/>
+</a>
 
 ## Show some  :blue_heart:
 [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Frames.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Frames)
@@ -22,7 +27,6 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
 [![Google+](https://img.shields.io/badge/Follow-Google%2B-ea4335.svg)](https://plus.google.com/+JahirFiquitivaR)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-009cde.svg)](https://www.paypal.me/jahirfiquitiva)
 
 ---
 
@@ -30,30 +34,31 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 
 ### Customizable styles
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/3.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/9.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/2.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/10.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/3.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/9.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/2.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/10.png" height="350"/>
 </p>
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/1.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/11.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/12.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/15.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/1.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/11.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/12.png" height="350"/>
 </p>
 
 ### Full-screen Viewer / Multiple themes
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/4.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/14.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/7.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/8.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/4.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/14.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/7.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/8.png" height="350"/>
 </p>
 
 ### Credits / Settings / Muzei Settings
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/5.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/6.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/images/13.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/5.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/6.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/13.png" height="350"/>
 </p>
 
 ---
@@ -62,7 +67,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 - Material Design dashboard.
 - License Checker.
 - Donations.
-- Firebase notifications ready.
+- OneSignal notifications ready.
 - Cloud based (only) wallpapers.
 - App can work offline.
 - Categories section.
@@ -84,7 +89,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 - Works with Android 4.1 and newer.
 
 ## Help translating
-:page_facing_up: Help making Frames available in more languages. [Click here to go to the translation site](http://bit.ly/TranslateFrames)
+:page_facing_up: Help making Frames available in more languages. [Click here to go to the translation site](http://j.mp/FramesTranslations)
 
 ## Changelog
 :radio_button: You can find it in the [Releases page](https://github.com/jahirfiquitiva/Frames/releases)
@@ -110,7 +115,7 @@ dependencies {
     }
 }
 ```
-where `{latest version}` corresponds to published version in [![JitPack](https://jitpack.io/v/jahirfiquitiva/Frames.svg)](https://jitpack.io/#jahirfiquitiva/Frames)
+where `{latest version}` corresponds to published version in   [![JitPack](https://jitpack.io/v/jahirfiquitiva/Frames.svg)](https://jitpack.io/#jahirfiquitiva/Frames)
 
 ## How to implement
 :page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Frames/wiki/)**
@@ -127,11 +132,14 @@ Just join our community and make a post. We'll help you as soon as possible. [![
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
 [![Google+](https://img.shields.io/badge/Follow-Google%2B-ea4335.svg)](https://plus.google.com/+JahirFiquitivaR)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-009cde.svg)](https://www.paypal.me/jahirfiquitiva)
 
-> If you found this app/library helpful and want to thank me, consider [buying me a cup of :coffee: or a slice of :pizza:](https://www.paypal.me/jahirfiquitiva).
->
-> Thanks in advance :blush:
+If you found this app/library helpful and want to thank me, you can:
+
+<a target="_blank" href="http://www.jahirfiquitiva.me/support/">
+<img src="http://jahirfiquitiva.me/share/support_my_work.svg?maxAge=432000" width="200"/>
+</a>
+
+**Thanks in advance!** :pray:
 
 ## Special Thanks:
 
@@ -154,7 +162,7 @@ Just join our community and make a post. We'll help you as soon as possible. [![
 
 This app is shared under the CreativeCommons Attribution-ShareAlike license.
 
-	Copyright © 2017 Jahir Fiquitiva
+	Copyright © 2018 Jahir Fiquitiva
 
 	Licensed under the CreativeCommons Attribution-ShareAlike 
 	4.0 International License. You may not use this file except in compliance 

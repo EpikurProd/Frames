@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017. Jahir Fiquitiva
+ * Copyright (c) 2018. Jahir Fiquitiva
  *
  * Licensed under the CreativeCommons Attribution-ShareAlike
  * 4.0 International License. You may not use this file except in compliance
@@ -17,4 +17,5 @@ package jahirfiquitiva.apps.frames.sample
 
 import jahirfiquitiva.libs.frames.data.services.FramesArtSource
 
-class MuzeiService : FramesArtSource("MyMuzeiService")
+// TODO: Use a unique name instead of MyFramesMuzeiService
+class MuzeiService : FramesArtSource("MyFramesMuzeiService")

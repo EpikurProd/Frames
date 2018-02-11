@@ -13,25 +13,22 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-ext.versions = [
-        // Projects
-        minSdk         : 16,
-        targetSdk      : 27,
-        buildTools     : '27.0.3',
-        // Gradle Plugins
-        gradle         : '3.0.1',
-        kotlin         : '1.2.21',
-        oneSignal      : '3.7.1'
-]
+package jahirfiquitiva.apps.frames.sample
 
-ext.gradlePlugins = [
-        android: 'com.android.tools.build:gradle:' + versions.gradle,
-        kotlin : 'org.jetbrains.kotlin:kotlin-gradle-plugin:' + versions.kotlin
-]
+import android.app.Application
 
-ext.libraries = [
-        // Kotlin
-        kotlin   : 'org.jetbrains.kotlin:kotlin-stdlib:' + versions.kotlin,
-        // OneSignal
-        oneSignal: 'com.onesignal:OneSignal:' + versions.oneSignal
-]
+// TODO: Remove comment marks to enable
+// import com.onesignal.OneSignal
+
+class MyApplication : Application() {
+    override fun onCreate() {
+        super.onCreate()
+        // TODO: Remove comment marks to enable
+        /*
+        OneSignal.startInit(this)
+                .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
+                .unsubscribeWhenNotificationsAreDisabled(true)
+                .init()
+                */
+    }
+}

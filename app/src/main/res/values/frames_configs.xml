@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (c) 2017. Jahir Fiquitiva
+  ~ Copyright (c) 2018. Jahir Fiquitiva
   ~
   ~ Licensed under the CreativeCommons Attribution-ShareAlike
   ~ 4.0 International License. You may not use this file except in compliance
@@ -16,18 +16,18 @@
   -->
 <resources>
 
-    <!--    Notifications class name
-    -       Must be something similar to:
-    -       com.mypackage.name.FirebaseService
-    -->
-    <string name="notifications_class">jahirfiquitiva.apps.frames.sample.FirebaseService</string>
-
     <!--    Use old format?
     -       If you're coming from the previous Frames, then you will find this useful
     -       True means yes
     -       False means no
     -->
     <bool name="use_old_json_format">true</bool>
+
+    <!-- Do you want notifications to be enabled for all your users?
+    -       True means yes
+    -       False means no
+    -->
+    <bool name="notifications_enabled_by_default">true</bool>
 
     <!--    Show collections tab?
     -       If you have collections in your JSON, set this to true
@@ -47,8 +47,8 @@
     <!--    Define the default app theme
     -       0 -> Light
     -       1 -> Dark
-    -       2 -> Transparent
-    -       3 -> Amoled
+    -       2 -> Amoled
+    -       3 -> Transparent
     -       4 -> Auto Light-Dark
     -       5 -> Auto Light-Amoled
     -->
@@ -56,6 +56,9 @@
 
     <!--    Choose whether you want colored tiles by default -->
     <bool name="enable_colored_tiles">true</bool>
+
+    <!--    Choose whether you want filled collection preview by default -->
+    <bool name="enable_filled_collection_preview">false</bool>
 
     <!--    Accent color in tabs
     -       If true, the accent color will be used in tabs
